@@ -13,7 +13,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "test": "NODE_OPTIONS=--experimental-vm-modules && jest"
+    "test": " set NODE_OPTIONS=--experimental-vm-modules && jest"
   },
   "devDependencies": {
     "jest": "^30.0.5"
