@@ -1,0 +1,19 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "Repositório da aula inicial de Testes de Software - Backend",
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Testes",
+    "Jest"
+  ],
+  "license": "MIT",
+  "author": "Anna Leme",
+  "main": "server.js",
+    "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
